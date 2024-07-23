@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164164182612",
+    "project_id": "firstfirebaseproject-914c4",
+    "storage_bucket": "firstfirebaseproject-914c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164164182612:android:afec5d4c0aa11ebecf43c1",
+        "android_client_info": {
+          "package_name": "com.prabin.firebasefirst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABSO7Je052M-mV8h1d2Eu-c4135Se0UDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
